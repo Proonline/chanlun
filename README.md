@@ -1,5 +1,3 @@
-# chanlun
-chanlun
 # czsc - 缠中说禅技术分析工具
 
 [![Downloads](https://static.pepy.tech/personalized-badge/czsc?period=total&units=international_system&left_color=red&right_color=orange&left_text=Downloads/Total)](https://pepy.tech/project/czsc)
